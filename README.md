@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###About me
+### About me
 - 👀 I’m interested in **Frontend development**
 - 🌱 I’m currently learning CI/CD
 - 📫 Reach me by [Telegram](https://t.me/MatveyNekrasov9), [email](mailto:matvei-n@mail.ru)
