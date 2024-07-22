@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 👀 I’m interested in **Frontend development**
 - 🌱 I’m currently learning CI/CD
 - 📫 Reach me by [Telegram](https://t.me/MatveyNekrasov9), [email](mailto:matvei-n@mail.ru)
-
+- 📚 I'm constantly learning  and continuously honing my practical skills. Always striving for improvement 🚀!
