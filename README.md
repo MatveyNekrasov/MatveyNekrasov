@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div id='header' align="center">
   <h1>Hi there, I'm Matvey</h1>
-  <h2>Frontend Developer</h2>
+  <h3>Frontend Developer</h3>
 </div>
