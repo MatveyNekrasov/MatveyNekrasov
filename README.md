@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </div>
 
 <a href="https://t.me/MatveyNekrasov9"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40px" height="40px"/>
 </a>
