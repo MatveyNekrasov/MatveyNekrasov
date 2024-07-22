@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 
 <div id="socials" align="center">
   <a href="https://t.me/MatveyNekrasov9"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40px" height="40px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32px" height="32px"/>
   </a>
 </div>
+
+###About me
+- 👀 I’m interested in **Frontend development**
+- 🌱 I’m currently learning CI/CD
+- 📫 Reach me by [Telegram](https://t.me/MatveyNekrasov9), [email](mailto:matvei-n@mail.ru)
 
