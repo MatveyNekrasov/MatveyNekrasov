@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id='header' align="center">
+  <h1>Hi there, I'm Matvey</h1>
+  <h2>Frontend Developer</h2>
+</div>
