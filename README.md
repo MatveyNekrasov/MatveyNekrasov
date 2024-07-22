@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div id="socials" align="center">
   <a href="https://t.me/MatveyNekrasov9"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32px" height="32px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32"/>
   </a>
 </div>
 
@@ -28,4 +28,27 @@ Here are some ideas to get you started:
 - 👀 I’m interested in **Frontend development**
 - 🌱 I’m currently learning CI/CD
 - 📫 Reach me by [Telegram](https://t.me/MatveyNekrasov9), [email](mailto:matvei-n@mail.ru)
-- 📚 I'm constantly learning  and continuously honing my practical skills. Always striving for improvement 🚀!
+- 📚 I'm constantly learning and continuously honing my practical skills. Always striving for improvement 🚀!
+
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbps;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbps;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="SASS" width="40" height="40"/>&nbps;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JS" width="40" height="40"/>&nbps;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TS" width="40" height="40"/>&nbps;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbps;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/>&nbps;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-plain-wordmark.svg" title="Webpack" width="40" height="40"/>&nbps;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" width="40" height="40"/>&nbps;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbps;
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
