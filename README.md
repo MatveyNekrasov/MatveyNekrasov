@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MatveyNekrasov/MatveyNekrasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +17,7 @@ Here are some ideas to get you started:
   <h1>Hi there, I'm Matvey</h1>
   <h3>Frontend Developer</h3>
 </div>
+
+<a href="https://t.me/MatveyNekrasov9"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" />
+</a>
